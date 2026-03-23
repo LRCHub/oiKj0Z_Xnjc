@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Papaoutai",
+  "base_artist": "Stromae",
+  "createdAt": "2026-03-23T04:02:52.741840Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Papaoutai",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/01_Papaoutai_Stromae.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Papaoutai",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/02_Papaoutai_Stromae.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Papaoutai (Stromae Cover) (feat. Lindsey Stirling)",
+      "artist": "Pentatonix & Lindsey Stirling",
+      "has_synced": true,
+      "path": "select/03_Papaoutai_(Stromae_Cover)_(feat._Lindsey_Stirling)_Pentatonix_&_Lindsey_Stirling.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Papaoutai Feat. Lindsey Stirling",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/04_Papaoutai_Feat._Lindsey_Stirling_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Papaoutai",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/05_Papaoutai_Stromae.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Papaoutai",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/06_Papaoutai_Stromae.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Papaoutai (Wyde Club Edit)",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/07_Papaoutai_(Wyde_Club_Edit)_Stromae.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Papaoutai (feat. Angel Haze)",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/08_Papaoutai_(feat._Angel_Haze)_Stromae.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Papaoutai feat. Lindsey Stirling - Track Commentary",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/09_Papaoutai_feat._Lindsey_Stirling_-_Track_Commentary_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Papaoutai",
+      "artist": "Pentatonix feat. Lindsey Stirling",
+      "has_synced": true,
+      "path": "select/10_Papaoutai_Pentatonix_feat._Lindsey_Stirling.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Papaoutai (Radio Edit)",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/11_Papaoutai_(Radio_Edit)_Stromae.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Papaoutai",
+      "artist": "Kids United",
+      "has_synced": true,
+      "path": "select/12_Papaoutai_Kids_United.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Papaoutai",
+      "artist": "Pentatonix feat. Lindsey Stirling",
+      "has_synced": true,
+      "path": "select/13_Papaoutai_Pentatonix_feat._Lindsey_Stirling.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Papaoutai",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/14_Papaoutai_Stromae.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Papaoutai",
+      "artist": "Pentatonix & Lindsey Stirling",
+      "has_synced": true,
+      "path": "select/15_Papaoutai_Pentatonix_&_Lindsey_Stirling.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Papaoutai",
+      "artist": "Pentatonix; Lindsey Stirling",
+      "has_synced": true,
+      "path": "select/16_Papaoutai_Pentatonix;_Lindsey_Stirling.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Papaoutai",
+      "artist": "Stromae",
+      "has_synced": false,
+      "path": "select/pl_01_Papaoutai_Stromae.txt"
+    }
+  ]
+}
